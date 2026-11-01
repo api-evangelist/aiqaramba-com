@@ -1,4 +1,4 @@
-# aiqaramba-com
+# Aiqaramba
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,88 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aiqaramba-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aiqaramba.com/
+Aiqaramba provides a platform to trace AI feature usage in production, building evaluations from real runs and measuring cost versus quality. Their service offers tracing, evaluation, and release checks to ensure AI models perform reliably, with tools for browser automation, search, and chat agents. They help teams monitor AI costs, detect quality regressions, and integrate evaluations into existing tooling, supporting both custom and Langfuse integrations.
+
+**Areas:** AI · Monitoring · Tracing · Evaluation · Cost-Quality
+
+## Aiqaramba on APIs.io
+
+Everything profiled for Aiqaramba is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aiqaramba-com/](https://apis.io/providers/aiqaramba-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Aiqaramba API](https://apis.io/apis/aiqaramba-com/aiqaramba-api/) — Browser-based QA testing for AI-generated web applications.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aiqaramba Com Domain Security](https://apis.io/security/aiqaramba-com/aiqaramba-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aiqaramba.com/)
+- [Sign up](https://app.aiqaramba.com/register?redirect=/)
+- [Blog](https://aiqaramba.com/blog/)
+- [Privacy policy](https://aiqaramba.com/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 10.2** — minimal · rubric 0.25.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 23.7 |
+
+**Agent readiness 6.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | near-conformant (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiqaramba-com/](https://apis.io/providers/aiqaramba-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Aiqaramba: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aiqaramba-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
